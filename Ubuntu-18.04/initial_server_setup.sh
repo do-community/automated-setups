@@ -6,7 +6,7 @@ set -euo pipefail
 ########################
 
 # Name of the user to create and grant sudo privileges
-USERNAME=sammy
+USERNAME=hamza
 
 # Whether to copy over the root user's `authorized_keys` file to the new sudo
 # user.
